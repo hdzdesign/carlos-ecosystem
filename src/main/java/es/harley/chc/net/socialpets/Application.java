@@ -1,4 +1,4 @@
-package es.upm.miw.iwvg.ecosystem;
+package es.harley.chc.net.socialpets;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

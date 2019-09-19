@@ -1,4 +1,4 @@
-package es.upm.miw.iwvg.ecosystem;
+package es.harley.chc.net.socialpets;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.GetMapping;
